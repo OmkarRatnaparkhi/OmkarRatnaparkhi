@@ -1,7 +1,6 @@
 ## Hola, I'm [Omkar Ratnaparkhi!] 👋
 
 ---
-**OmkarRatnaparkhi/OmkarRatnaparkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Gif1.gif" width="350" align='right'>
 
