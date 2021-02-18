@@ -3,7 +3,7 @@
 ---
 **OmkarRatnaparkhi/OmkarRatnaparkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Gif1.gif" width="350" align='right'>
 
 - 🔭 I’m currently working on myself
 _ 🌱 I’m currently learning python and machine learning
@@ -14,4 +14,4 @@ _ 🌱 I’m currently learning python and machine learning
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am mechanical engineer!!!
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
