@@ -55,7 +55,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :blush:</em>
 
-**Connect with me**<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="32px">
+**Connect with me**<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="22px">
 
 
 <a href="mailto:omratnaparkhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omratnaparkhi@gmail.com-blue?style=social&logo=gmail"></a>
