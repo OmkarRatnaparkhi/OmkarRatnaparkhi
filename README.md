@@ -52,6 +52,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarRatnaparkhi&show_icons=true&theme=light&line_height=27" alt="Omkar's github stats"/>
 </a>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :blush:</em>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="mailto:omratnaparkhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omratnaparkhi@gmail.com-blue?style=social&logo=gmail"></a>
@@ -59,6 +61,3 @@
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarRatnaparkhi&label=Views&color=blue&style=plastic" alt="OmkarRatnaparkhi" /> </p>
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :blush:</em>
