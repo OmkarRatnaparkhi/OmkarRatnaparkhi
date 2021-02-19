@@ -57,6 +57,7 @@
 
 **Connect with me**<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif height="20px">
 
+<br>
 
 # Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="32px">
 
