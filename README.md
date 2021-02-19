@@ -52,6 +52,8 @@
 
 [![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarRatnaparkhi&label=Views&color=blue&style=plastic" alt="OmkarRatnaparkhi" /> </p>
+
 
 
 
