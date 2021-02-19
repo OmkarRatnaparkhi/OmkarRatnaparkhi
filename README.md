@@ -3,6 +3,9 @@
 
 <img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Gif1.gif" width="350" align='right'>
 
+<a href="mailto:omratnaparkhi@gmail.com">
+  <img align="left" alt="Omkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://twitter.com/omratnaparkhi">
   <img align="left" alt="Omkar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,9 +20,6 @@
 </a>
 <a href="https://www.facebook.com/omkar.ratnaparkhi1/">
   <img align="left" alt="Omkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="mailto:omratnaparkhi@gmail.com">
-  <img align="left" alt="Omkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br/>
