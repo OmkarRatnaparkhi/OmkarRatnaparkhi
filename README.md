@@ -51,6 +51,7 @@
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
+
 <a href="mailto:omratnaparkhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omratnaparkhi@gmail.com-blue?style=social&logo=gmail"></a>
 [![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
