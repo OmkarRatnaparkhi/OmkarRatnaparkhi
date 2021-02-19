@@ -34,6 +34,15 @@ _ 🌱 I’m currently learning python and machine learning
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am mechanical engineer!!!
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
+
 [![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 
