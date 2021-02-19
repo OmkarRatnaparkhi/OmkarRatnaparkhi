@@ -1,4 +1,4 @@
-## Hola, I'm [Omkar Ratnaparkhi!] 👋
+## Hola, I'm Omkar Ratnaparkhi👋
 
 
 <img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Gif1.gif" width="350" align='right'>
