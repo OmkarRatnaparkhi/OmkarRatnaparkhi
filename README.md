@@ -34,8 +34,8 @@ _ 🌱 I’m currently learning python and machine learning
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am mechanical engineer!!!
 
-[![Twitter: omratnaparkhi](https://img.shields.io/twitter/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
-[![GitHub OmkarRatnaparkhi](https://img.shields.io/github/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
+[![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
+[![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 
 
 
