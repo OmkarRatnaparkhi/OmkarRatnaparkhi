@@ -51,7 +51,7 @@
 <a href="https://github.com/OmkarRatnaparkhi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarRatnaparkhi&show_icons=true&theme=light&line_height=27" alt="Omkar's github stats"/>
 </a>
-
+<br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :blush:</em>
 
