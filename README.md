@@ -26,7 +26,7 @@
 <br/>
 
 - 🔭 I’m currently working on myself
-_ 🌱 I’m currently learning python and machine learning
+- 🌱 I’m currently learning python and machine learning
 - 👯 I’m looking to collaborate on linkedin
 - 🤔 I’m looking for help with django
 - 💬 Ask me about anything
