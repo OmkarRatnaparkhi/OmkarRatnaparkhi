@@ -61,5 +61,6 @@
 [![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 [![Instagram: omkarratnaparkhi](https://img.shields.io/instagram/follow/omkarratnaparkhi?style=social)](https://www.instagram.com/omkarratnaparkhi/)
+<a href="https://www.instagram.com/omkarratnaparkhi/"><img alt="instagram" src="https://img.shields.io/badge/instagram-omkarratnaparkhi-blue?style=social&logo=gmail"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarRatnaparkhi&label=Views&color=blue&style=plastic" alt="OmkarRatnaparkhi" /> </p>
