@@ -29,8 +29,8 @@
 - 🌱 I’m currently learning python and machine learning
 - 👯 I’m looking to collaborate on linkedin
 - 🤔 I’m looking for help with django
-- 💬 Ask me about anything
-- 📫 How to reach me: gmail
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via omratnaparkhi@gmail.com to reach me.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am mechanical engineer!!!
 
