@@ -43,6 +43,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
+<a href="https://github.com/OmkarRatnaparkhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarRatnaparkhi&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/OmkarRatnaparkhi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarRatnaparkhi&show_icons=true&theme=light&line_height=27" alt="Omkar's github stats"/>
+</a>
+
 [![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 
