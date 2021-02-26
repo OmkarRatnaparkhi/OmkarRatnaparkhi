@@ -52,6 +52,9 @@
 <a href="https://github.com/OmkarRatnaparkhi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarRatnaparkhi&show_icons=true&theme=light&line_height=27" alt="Omkar's github stats"/>
 </a>
+<a href="https://github.com/OmkarRatnaparkhi/Customized_Virtual_File_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarRatnaparkhi&repo=Customized_Virtual_File_System&theme=light" />
+</a>
 <br />
 
 
