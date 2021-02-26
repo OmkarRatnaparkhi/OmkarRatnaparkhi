@@ -33,7 +33,7 @@
 - 📫 Please email via omratnaparkhi@gmail.com to reach me.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am mechanical engineer!!!
-- 📝 See my <a href='https://drive.google.com/file/d/1ZdythcEmQasIxiOAFf8mrnVysxYafqn1/view?usp=sharing' target=_blank><u>Resume</u> to get more info.</a></p>.
+- 📝 See my <a href='https://drive.google.com/file/d/1ZdythcEmQasIxiOAFf8mrnVysxYafqn1/view?usp=sharing' target=_blank><u>Resume</u> </a>to get more info.</p>.
 
 **Languages and Tools:**  
 
