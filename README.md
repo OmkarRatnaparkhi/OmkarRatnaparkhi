@@ -70,4 +70,10 @@
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 <a href="https://www.instagram.com/omkarratnaparkhi/"><img alt="instagram" src="https://img.shields.io/badge/instagram-omkarratnaparkhi-blue?style=social&logo=instagram"></a>
 
+
+![](https://img.shields.io/badge/C++-%7C-yellowgreen)
+![](https://img.shields.io/badge/Web%20Development-%7C-red)    
+![](https://img.shields.io/badge/Java-%7C-yellowgreen)
+![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarRatnaparkhi&label=Views&color=blue&style=plastic" alt="OmkarRatnaparkhi" /> </p>
