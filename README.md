@@ -72,4 +72,4 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarRatnaparkhi&label=Views&color=blue&style=plastic" alt="OmkarRatnaparkhi" /> ![](https://img.shields.io/badge/C-%7C-yellowgreen) ![](https://img.shields.io/badge/C++-%7C-yellowgreen)  ![](https://img.shields.io/badge/Java-%7C-red)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)  ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmkarRatnaparkhi&label=Views&color=blue&style=plastic" alt="OmkarRatnaparkhi" /></p> ![](https://img.shields.io/badge/C-%7C-yellowgreen) ![](https://img.shields.io/badge/C++-%7C-yellowgreen)  ![](https://img.shields.io/badge/Java-%7C-red)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)  ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) 
