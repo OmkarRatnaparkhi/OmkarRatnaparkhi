@@ -6,6 +6,9 @@
 <a href="mailto:omratnaparkhi@gmail.com">
   <img align="left" alt="Omkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://www.linkedin.com/in/omkarratnaparkhi/">
+  <img align="left" alt="Omkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://twitter.com/omratnaparkhi">
   <img align="left" alt="Omkar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -62,6 +65,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :blush:</em>
 
 <a href="mailto:omratnaparkhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omratnaparkhi@gmail.com-blue?style=social&logo=gmail"></a>
+[![Linkedin: omkarratnaparkhi](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/omkarratnaparkhi/)](https://www.linkedin.com/in/omkarratnaparkhi/)
 [![Twitter: omratnaparkhi](https://img.shields.io/twitter/follow/omratnaparkhi?style=social)](https://twitter.com/omratnaparkhi)
 [![GitHub OmkarRatnaparkhi](https://img.shields.io/github/followers/OmkarRatnaparkhi?label=follow&style=social)](https://github.com/OmkarRatnaparkhi)
 <a href="https://www.instagram.com/omkarratnaparkhi/"><img alt="instagram" src="https://img.shields.io/badge/instagram-omkarratnaparkhi-blue?style=social&logo=instagram"></a>
