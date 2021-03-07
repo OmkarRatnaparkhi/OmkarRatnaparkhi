@@ -29,14 +29,21 @@
 <br/>
 
 - 🔭 I’m currently working on myself
+
 - 🌱 I’m currently learning python and machine learning
+
 - 👯 I’m looking to collaborate on <a href='https://www.linkedin.com/in/omkarratnaparkhi/' target=_blank><u>linkedin</u> </a>
-- 🤔 I’m looking for help with django
+
+- 🤔 I’m looking for help with spring boot
+
 - 💬 Ask me about anything, I am happy to help;
+
 - 📫 Please email via omratnaparkhi@gmail.com to reach me.
+
 - 😄 Pronouns: He/His
+
 - ⚡ Fun fact: I am mechanical engineer!!!
-- 📝 See my <a href='https://drive.google.com/file/d/1pPR2agbXdPVyA82PRUNlKVFHXKhsJV2f/view?usp=sharing' target=_blank><u>Resume</u> </a>to get more info.</p>.
+
 
 **Languages and Tools:**  
 
